@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Todo</string>
+
+    <string name="todo">Todo</string>
+    <string name="todo_create">Create Todo</string>
+    <string name="todo_update">Update Todo</string>
+    <string name="todo_empty">You\'re all done!</string>
+
+    <string name="github">Github</string>
+    <string name="help">Help &amp; Feedback</string>
+    <string name="attributions">Attributions</string>
+
+    <string name="delete">Delete</string>
+    <string name="done">Done</string>
+
+    <string name="transition_name_todo_name">transition_name_todo_name</string>
+
+</resources>

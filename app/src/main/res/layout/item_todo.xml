@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dp_72"
+    android:paddingRight="@dimen/dp_16"
+    android:paddingLeft="@dimen/dp_16">
+
+    <TextView
+        android:id="@+id/item_todo_textview"
+        android:transitionName="@string/transition_name_todo_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:textAppearance="@style/MyTextAppearanceBody"
+        android:textColor="@color/myTextColor"
+        android:maxLines="3"
+        tools:text="Todo"/>
+
+</RelativeLayout>
